@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagar Das</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **sagar.xyz05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sagar-das-72b955282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-das-72b955282" height="30" width="40" /></a>
-<a href="https://instagram.com/_the_phoe.nix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_phoe.nix_" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -49,14 +44,14 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
 </div>
 
-###
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagardas25&show_icons=true&theme=dracula&locale=en" alt="sagardas25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagardas25&theme=dark" alt="sagardas25" /></p>
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sagar-das-72b955282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-das-72b955282" height="30" width="40" /></a>
+<a href="https://instagram.com/_the_phoe.nix_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_the_phoe.nix_" height="30" width="40" /></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/sagardas25/sagardas25/output/snake.svg" alt="Snake animation" />
-
-###
